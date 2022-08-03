@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MetaBogdan
-- 👀 I’m interested in Golang 
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Golang developer 
+- 👀 I’m interested in Js and Golang 
+- 🌱 I’m currently learning  Js and Golang
+- 💞️ I’m looking to collaborate on  Js and Golang developer 
 - 📫 How to reach me Telegram https://t.me/VozniyBogdan
 
 <!---
