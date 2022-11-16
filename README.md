@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MetaBogdan
+- 👋 Hi, I’m @MetaBogdan 
+- 💞️ I’m React developer
 - 👀 I’m interested in Js and Golang 
 - 🌱 I’m currently learning  Js and Golang
 - 💞️ I’m looking to collaborate on  Js and Golang developer 
