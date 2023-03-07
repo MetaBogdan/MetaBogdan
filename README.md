@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MetaBogdan 
-- 💞️ I’m React developer
-- 👀 I’m interested React Js and Golang 
+- 💞️ I’m Software developer
+- 👀 I’m interested Golang and React Js
 - 🌱 I'm looking for an interesting react project, open to suggestions
-- 💞️ I’m looking to collaborate on React Js and Golang developer 
+- 💞️ I’m looking to collaborate on Golang and React Js developer 
 - 📫 How to reach me Telegram https://t.me/VozniyBogdan
 
 <!---
